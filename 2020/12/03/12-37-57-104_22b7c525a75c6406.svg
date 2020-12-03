@@ -1,0 +1,12 @@
+<svg viewBox="0 0 260 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="9" y="45" width="240" height="90" fill="var(--color-contrast-low)"/>
+<path d="M183 123L191 131L199 123" stroke="var(--color-contrast-high)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect opacity="0.9" x="106" y="126" width="48" height="48" rx="4" fill="var(--color-primary)"/>
+<rect opacity="0.9" x="103" y="79" width="41" height="41" rx="3" transform="rotate(-22.5 103 79)" fill="var(--color-primary)"/>
+<rect opacity="0.9" x="107" y="29.7012" width="32" height="32" rx="2" transform="rotate(-45 107 29.7012)" fill="var(--color-primary)"/>
+<path d="M191 49V131" stroke="var(--color-contrast-high)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 58V48H22" stroke="var(--color-bg)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M246 122L246 132L236 132" stroke="var(--color-bg)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M236 48L246 48L246 58" stroke="var(--color-bg)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22 132L12 132L12 122" stroke="var(--color-bg)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
